@@ -1,0 +1,7 @@
+# Markdown is formatted by markdownlint-cli2. Prettier's Markdown parser fights kramdown.
+*.md
+
+# Built bundles. The HTML points at these hashed filenames.
+/assets/
+/index.*.js
+/index.*.css
